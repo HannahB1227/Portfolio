@@ -116,7 +116,8 @@ header {
 }
 
 .project-item img {
-    max-width: 30%;
+    width: 300px;
+    height: 300px;
 }
 
 .project-info {
